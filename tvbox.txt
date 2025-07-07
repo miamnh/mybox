@@ -1,6 +1,6 @@
 { "urls": [
 
-    { "url": "https://raw.githubusercontent.com/miamnh/mybox/refs/heads/main/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/api.json", "name": "少儿频道" }
+    { "url": "https://raw.githubusercontent.com/miamnh/mybox/refs/heads/main/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/api.json", "name": "少儿频道" },
 
     { "url": "https://raw.githubusercontent.com/miamnh/mybox/refs/heads/main/%E5%8D%97%E9%A3%8E/api.json", "name": "南风" }
     
