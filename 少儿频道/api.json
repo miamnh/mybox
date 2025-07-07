@@ -45,6 +45,17 @@
             "jar": "./jars/csp_XYQHiker_兔小贝.jar"
         },
         {
+            "key": "潮汕小品",
+            "name": "潮汕小品",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/潮汕小品.json",
+            "jar": ""
+        },
+        {
             "key": "幼儿启蒙",
             "name": "🌏幼儿启蒙",
             "type": 3,
