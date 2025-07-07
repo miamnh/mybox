@@ -390,7 +390,8 @@
                 ],
                 "header": {
                     "User-Agent": "okhttp/3.12.11"
-                }
+                },
+                "supports_url": true // 新增字段，表示支持URL输入
             }
         },
         {
@@ -436,7 +437,8 @@
                 ],
                 "header": {
                     "User-Agent": "Dart/2.18 (dart:io)"
-                }
+                },
+                "supports_url": true // 新增字段，表示支持URL输入
             }
         },
         {
@@ -479,7 +481,8 @@
                     "优酷视频",
                     "芒果视频",
                     "乐视视频"
-                ]
+                ],
+            "supports_url": true // 新增字段，表示支持URL输入
             }
         },
         {
@@ -511,7 +514,8 @@
                 ],
                 "header": {
                     "User-Agent": "okhttp/4.1.0"
-                }
+                },
+                "supports_url": true // 新增字段，表示支持URL输入
             }
         },
         {
@@ -540,7 +544,8 @@
                 ],
                 "header": {
                     "User-Agent": "okhttp/4.1.0"
-                }
+                },
+                "supports_url": true // 新增字段，表示支持URL输入
             }
         },
         {
@@ -607,7 +612,8 @@
                 "header": {
                     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
                     "Referer": "https://www.dy6g.com/"
-                }
+                },
+                "supports_url": true // 新增字段，表示支持URL输入
             }
         },
         {
@@ -639,7 +645,8 @@
                     "bilibili",
                     "1905",
                     "xigua"
-                ]
+                ],
+            "supports_url": true // 新增字段，表示支持URL输入
             }
         },
         {
@@ -672,7 +679,8 @@
                     "bilibili",
                     "1905",
                     "xigua"
-                ]
+                ],
+            "supports_url": true // 新增字段，表示支持URL输入
             }
         },
         {
@@ -849,7 +857,8 @@
                     "bilibili",
                     "1905",
                     "xigua"
-                ]
+                ],
+            "supports_url": true // 新增字段，表示支持URL输入
             }
         },
         {
@@ -876,7 +885,8 @@
                     "bilibili",
                     "1905",
                     "xigua"
-                ]
+                ],
+            "supports_url": true // 新增字段，表示支持URL输入
             }
         },
         {
@@ -904,7 +914,8 @@
                     "bilibili",
                     "1905",
                     "xigua"
-                ]
+                ],
+            "supports_url": true // 新增字段，表示支持URL输入
             }
         },
         {
@@ -926,7 +937,8 @@
                 ],
                 "header": {
                     "User-Agent": "Dart/2.14 (dart:io)"
-                }
+                },
+                "supports_url": true // 新增字段，表示支持URL输入
             }
         },
         {
@@ -955,7 +967,8 @@
                 ],
                 "header": {
                     "User-Agent": ""
-                }
+                },
+                "supports_url": true // 新增字段，表示支持URL输入
             }
         },
         {
@@ -984,7 +997,8 @@
                 ],
                 "header": {
                     "User-Agent": ""
-                }
+                },
+                "supports_url": true // 新增字段，表示支持URL输入
             }
         },
         {
@@ -1013,7 +1027,8 @@
                 ],
                 "header": {
                     "User-Agent": ""
-                }
+                },
+                "supports_url": true // 新增字段，表示支持URL输入
             }
         },
         {
@@ -1042,7 +1057,8 @@
                 ],
                 "header": {
                     "User-Agent": ""
-                }
+                },
+                "supports_url": true // 新增字段，表示支持URL输入
             }
         },
         {
@@ -1071,7 +1087,8 @@
                 ],
                 "header": {
                     "User-Agent": ""
-                }
+                },
+                "supports_url": true // 新增字段，表示支持URL输入
             }
         }
     ],
