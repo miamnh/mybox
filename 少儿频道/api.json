@@ -11,7 +11,15 @@
         }
     ],
     "sites": [
-        
+        {
+            "key": "Bili21",
+            "name": "宝宝趣学",
+            "type": 3,
+            "jar": "./jars/qx.jar",
+            "api": "csp_Bili2",
+            "searchable": 0,
+            "ext": "./json/video_data.json"
+        },
         {
             "key": "csp_XYQHiker_兔小贝",
             "name": "🐰兔小贝",
@@ -366,8 +374,7 @@
           "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
-    }
-
+    },
         {
             "name": "超解析",
             "type": 3,
@@ -1263,6 +1270,24 @@
             ]
         }
     ],
+  "flags": [
+    "youku",
+    "qq",
+    "QQ",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "PPTV",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "xmm",
+    "xigua",
+    "m1905"
+  ],
     "ads": [
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
         "mimg.0c1q0l.cn",
