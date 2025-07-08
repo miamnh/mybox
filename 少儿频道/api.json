@@ -11,7 +11,16 @@
         }
     ],
     "sites": [
-
+        {
+            "key": "Bili21",
+            "name": "宝宝趣学",
+            "spider": "./spider2.jar",
+            "type": 3,
+            "jar": "./jars/qx.jar",
+            "api": "csp_Bili2",
+            "searchable": 0,
+            "ext": "./json/video_data.json"
+        },
         {
             "key": "csp_XYQHiker_兔小贝",
             "name": "🐰兔小贝",
