@@ -12,6 +12,15 @@
     ],
     "sites": [
         {
+            "key": "Bili21",
+            "name": "宝宝趣学",
+            "type": 3,
+            "jar": "./jars/qx.jar",
+            "api": "csp_Bili2",
+            "searchable": 0,
+            "ext": "./json/video_data.json"
+        },
+        {
             "key": "csp_XYQHiker_兔小贝",
             "name": "🐰兔小贝",
             "type": 3,
@@ -43,17 +52,6 @@
             "filterable": 1,
             "ext": "./json/播视童趣.json",
             "jar": "./jars/csp_XYQHiker_兔小贝.jar"
-        },
-        {
-            "key": "潮汕小品",
-            "name": "潮汕小品",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/潮汕小品.json",
-            "jar": ""
         },
         {
             "key": "幼儿启蒙",
@@ -337,6 +335,47 @@
         }
     ],
     "parses": [
+ {
+      "name": "免费分享",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "imgo",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "云解析",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
+        }
+      }
+    }
+
         {
             "name": "超解析",
             "type": 3,
@@ -390,8 +429,7 @@
                 ],
                 "header": {
                     "User-Agent": "okhttp/3.12.11"
-                },
-                "supports_url": true // 新增字段，表示支持URL输入
+                }
             }
         },
         {
@@ -437,8 +475,7 @@
                 ],
                 "header": {
                     "User-Agent": "Dart/2.18 (dart:io)"
-                },
-                "supports_url": true // 新增字段，表示支持URL输入
+                }
             }
         },
         {
@@ -481,8 +518,7 @@
                     "优酷视频",
                     "芒果视频",
                     "乐视视频"
-                ],
-            "supports_url": true // 新增字段，表示支持URL输入
+                ]
             }
         },
         {
@@ -514,8 +550,7 @@
                 ],
                 "header": {
                     "User-Agent": "okhttp/4.1.0"
-                },
-                "supports_url": true // 新增字段，表示支持URL输入
+                }
             }
         },
         {
@@ -544,8 +579,7 @@
                 ],
                 "header": {
                     "User-Agent": "okhttp/4.1.0"
-                },
-                "supports_url": true // 新增字段，表示支持URL输入
+                }
             }
         },
         {
@@ -612,8 +646,7 @@
                 "header": {
                     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
                     "Referer": "https://www.dy6g.com/"
-                },
-                "supports_url": true // 新增字段，表示支持URL输入
+                }
             }
         },
         {
@@ -645,8 +678,7 @@
                     "bilibili",
                     "1905",
                     "xigua"
-                ],
-            "supports_url": true // 新增字段，表示支持URL输入
+                ]
             }
         },
         {
@@ -679,8 +711,7 @@
                     "bilibili",
                     "1905",
                     "xigua"
-                ],
-            "supports_url": true // 新增字段，表示支持URL输入
+                ]
             }
         },
         {
@@ -857,8 +888,7 @@
                     "bilibili",
                     "1905",
                     "xigua"
-                ],
-            "supports_url": true // 新增字段，表示支持URL输入
+                ]
             }
         },
         {
@@ -885,8 +915,7 @@
                     "bilibili",
                     "1905",
                     "xigua"
-                ],
-            "supports_url": true // 新增字段，表示支持URL输入
+                ]
             }
         },
         {
@@ -914,8 +943,7 @@
                     "bilibili",
                     "1905",
                     "xigua"
-                ],
-            "supports_url": true // 新增字段，表示支持URL输入
+                ]
             }
         },
         {
@@ -937,8 +965,7 @@
                 ],
                 "header": {
                     "User-Agent": "Dart/2.14 (dart:io)"
-                },
-                "supports_url": true // 新增字段，表示支持URL输入
+                }
             }
         },
         {
@@ -967,8 +994,7 @@
                 ],
                 "header": {
                     "User-Agent": ""
-                },
-                "supports_url": true // 新增字段，表示支持URL输入
+                }
             }
         },
         {
@@ -997,8 +1023,7 @@
                 ],
                 "header": {
                     "User-Agent": ""
-                },
-                "supports_url": true // 新增字段，表示支持URL输入
+                }
             }
         },
         {
@@ -1027,8 +1052,7 @@
                 ],
                 "header": {
                     "User-Agent": ""
-                },
-                "supports_url": true // 新增字段，表示支持URL输入
+                }
             }
         },
         {
@@ -1057,8 +1081,7 @@
                 ],
                 "header": {
                     "User-Agent": ""
-                },
-                "supports_url": true // 新增字段，表示支持URL输入
+                }
             }
         },
         {
@@ -1087,8 +1110,7 @@
                 ],
                 "header": {
                     "User-Agent": ""
-                },
-                "supports_url": true // 新增字段，表示支持URL输入
+                }
             }
         }
     ],
@@ -1249,6 +1271,24 @@
             ]
         }
     ],
+  "flags": [
+    "youku",
+    "qq",
+    "QQ",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "PPTV",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "xmm",
+    "xigua",
+    "m1905"
+  ],
     "ads": [
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
         "mimg.0c1q0l.cn",
