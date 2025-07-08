@@ -44,260 +44,29 @@
             "jar": "./jars/csp_XYQHiker_兔小贝.jar"
         },
         {
-            "key": "csp_XYQHiker_童趣",
-            "name": "🍭童趣",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/播视童趣.json",
-            "jar": "./jars/csp_XYQHiker_兔小贝.jar"
-        },
-        {
-            "key": "幼儿启蒙",
-            "name": "🌏幼儿启蒙",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/幼儿启蒙.json",
-            "jar": ""
-        },
-        {
-            "key": "益智",
-            "name": "🌏益智┃动画",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./json/益智动画.json",
-            "jar": ""
-        },
-        {
-            "key": "幼小衔接",
-            "name": "🌏幼小衔接",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/幼小衔接.json",
-            "jar": ""
-        },
-        {
-            "key": "小灯塔",
-            "name": "🌏小灯塔",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/小灯塔百科.json",
-            "jar": ""
-        },
-        {
-            "key": "小灯塔科学",
-            "name": "🌏小灯塔科学",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/小灯塔科学.json",
-            "jar": ""
-        },
-        {
-            "key": "小灯塔地理",
-            "name": "🌏小灯塔地理",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/小灯塔地理.json",
-            "jar": ""
-        },
-        {
-            "key": "小灯塔国学",
-            "name": "🌏小灯塔国学",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/小灯塔国学.json",
-            "jar": ""
-        },
-        {
-            "key": "小灯塔人文",
-            "name": "🌏小灯塔人文",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/小灯塔人文.json",
-            "jar": ""
-        },
-        {
-            "key": "儿童拼音",
-            "name": "🌏儿童拼音",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/儿童拼音.json",
-            "jar": ""
-        },
-        {
-            "key": "儿童识字",
-            "name": "🌏儿童识字",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/儿童识字.json",
-            "jar": ""
-        },
-        {
-            "key": "儿童英语",
-            "name": "🌏儿童英语",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/儿童英语.json",
-            "jar": ""
-        },
-        {
-            "key": "儿童硬笔",
-            "name": "🌏儿童硬笔",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/儿童硬笔.json",
-            "jar": ""
-        },
-        {
-            "key": "儿童思维",
-            "name": "🌏儿童思维",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/儿童思维.json",
-            "jar": ""
-        },
-        {
-            "key": "儿童口才",
-            "name": "🌏儿童口才",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/儿童口才.json",
-            "jar": ""
-        },
-        {
-            "key": "儿童编程",
-            "name": "🌏儿童编程",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/儿童编程.json",
-            "jar": ""
-        },
-        {
-            "key": "儿童武术",
-            "name": "🌏儿童武术",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/儿童武术.json",
-            "jar": ""
-        },
-        {
-            "key": "兴趣培养",
-            "name": "🌏兴趣培养",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/兴趣培养.json",
-            "jar": ""
-        },
-        {
-            "key": "小学",
-            "name": "🌏小学教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/哔哩哔哩小学.json",
-            "jar": ""
-        },
-        {
-            "key": "初中",
-            "name": "🌏初中教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/哔哩哔哩初中.json",
-            "jar": ""
-        },
-        {
-            "key": "高中",
-            "name": "🌏高中教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/哔哩哔哩高中.json",
-            "jar": ""
-        },
-        {
             "key": "腾讯",
-            "name": "🎅🏻 | 少儿频道1",
+            "name": "藤汛少儿",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/腾讯.js"
         },
         {
             "key": "芒果",
-            "name": "👼🏻 | 少儿频道2",
+            "name": "茫裹少儿",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/忙果.js"
         },
         {
             "key": "奇艺",
-            "name": "🧚 | 少儿频道3",
+            "name": "齐艺少儿",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/异兽.js"
         },
         {
             "key": "优酷",
-            "name": "🧜‍| 少儿频道4",
+            "name": "悠库少儿",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/优酷.js"
@@ -311,17 +80,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./py/py_cctv_1.py"
-        },
-        {
-            "key": "ysjd",
-            "name": "🅱️央视┃经典",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./json/央视经典.json",
-            "jar": ""
         },
         {
             "key": "push_agent",
