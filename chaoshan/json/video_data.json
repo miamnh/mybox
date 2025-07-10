@@ -1,0 +1,37 @@
+{
+  "classNameList": [
+    "古装小品",
+    "现代小品",
+    "潮语电视剧"
+  ],
+  "VideoClassInfoList": {
+    "古装小品": [
+      {
+        "title": "《夏雨来》第10部",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/e7762e675e23762e27671e98de1ae5a9d2cf1c2e.jpg",
+        "videoCount": 1,
+        "bvid": "BV1kfGTzuEBP"
+      },
+      {
+        "title": "《虱母仙》",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/ed578a0faa58061f5bf224206734abb65357362d.jpg",
+        "videoCount": 1,
+        "bvid": "BV14vGgzpE3z"
+      },
+      {
+        "title": "《仙佛造桥》",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/b5b05b5eca50edad2e8c99fd85d14df18d295a7d.jpg",
+        "videoCount": 1,
+        "bvid": "BV1sBGgznEzy"
+      }
+    ],
+    "现代小品": [
+      {
+        "title": "测试",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/dc4737a58370337870470cfbfcccbfd68bea53cd.jpg@672w_380h_!web-video-rcmd-cover.webp",
+        "videoCount": 245,
+        "bvid": "BV1tM41127RV"
+      }
+    ]
+  }
+}
