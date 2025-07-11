@@ -12,7 +12,7 @@
     ],
     "sites": [
         {
-            "key": "Bili21",
+            "key": "Bili20",
             "name": "潮汕影视",
             "spider": "./spider2.jar",
             "type": 3,
