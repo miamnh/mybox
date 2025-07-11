@@ -1,0 +1,267 @@
+{
+  "classNameList": [
+    "古装小品",
+    "现代小品",
+    "潮语电视剧",
+    "潮汕音乐",
+    "潮剧"
+  ],
+  "VideoClassInfoList": {
+    "古装小品": [
+       {
+        "title": "《夏雨来》第1~6部",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/00cb353c3a1df60dacb28ddc6d641d0634b2bdd1.jpg",
+        "videoCount": 31,
+        "bvid": "BV1j9rKYxEyE"
+      },
+      {
+        "title": "《夏雨来》第7~10部",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/0d5e5145453891ea08ae27d0316d89e9400fe6ce.jpg",
+        "videoCount": 12,
+        "bvid": "BV1RT4y1Q7Yu"
+      },
+      {
+        "title": "《夏雨来》第10部",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/e7762e675e23762e27671e98de1ae5a9d2cf1c2e.jpg",
+        "videoCount": 1,
+        "bvid": "BV1kfGTzuEBP"
+      },
+      {
+        "title": "《虱母仙》",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/ed578a0faa58061f5bf224206734abb65357362d.jpg",
+        "videoCount": 1,
+        "bvid": "BV14vGgzpE3z"
+      },
+      {
+        "title": "《仙佛造桥》",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/b5b05b5eca50edad2e8c99fd85d14df18d295a7d.jpg",
+        "videoCount": 1,
+        "bvid": "BV1sBGgznEzy"
+      }
+    ],
+    "现代小品": [
+      {
+        "title": "测试",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/dc4737a58370337870470cfbfcccbfd68bea53cd.jpg@672w_380h_!web-video-rcmd-cover.webp",
+        "videoCount": 245,
+        "bvid": "BV1tM41127RV"
+      }
+    ],
+    "潮语电视剧": [
+      {
+        "title": "测试",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/dc4737a58370337870470cfbfcccbfd68bea53cd.jpg@672w_380h_!web-video-rcmd-cover.webp",
+        "videoCount": 245,
+        "bvid": "BV1tM41127RV"
+      }
+    ],
+    "潮汕音乐": [
+      {
+        "title": "1997年潮语宣传片《 情系潮州》",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/86cf2d9ff430a2437e8392c81fae2816f0621c82.jpg",
+        "videoCount": 1,
+        "bvid": "BV1EfceesERS"
+      },
+      {
+        "title": "潮州大锣鼓",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/dbea6e4f2a7ada369a0673f96d6e0b13cc30de0b.jpg",
+        "videoCount": 1,
+        "bvid": "BV1AecvehEsK"
+      },
+      {
+        "title": "潮汕老照片带领您回到那个年代的潮汕",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/195cc16306bc1213f42b3831cffb00d0203e2831.jpg",
+        "videoCount": 1,
+        "bvid": "BV1EK4y1F75J"
+      },
+      {
+        "title": "寒鸦戏水",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/5735c02b09403c280e6998deca995d2cbe039b6e.jpg",
+        "videoCount": 1,
+        "bvid": "BV1KtcvevEGz"
+      },
+      {
+        "title": "鳳求凰",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/7c1fae2c34b2fa26a3f0ed03b40190cf2f0d4852.jpg",
+        "videoCount": 1,
+        "bvid": "BV1NtcvevEjH"
+      },
+      {
+        "title": "黄鹂词",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/6aeb0de45c04a6f830340cb2cb7f1d31671c0199.jpg",
+        "videoCount": 1,
+        "bvid": "BV1AYcvewEuo"
+      },
+      {
+        "title": "錦上添花",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/49c336eadc01a7ab2141fb37e04f9faefa600a77.jpg",
+        "videoCount": 1,
+        "bvid": "BV1PYcvewETt"
+      },
+      {
+        "title": "熏風曲",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/3ef8a312a7f01ffcf1fd1285a30369a7b46bd6a5.jpg",
+        "videoCount": 1,
+        "bvid": "BV1PYcvewEuR"
+      },
+      {
+        "title": "月儿高",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/d1b9a0c014012aed8def004119af280f028f7363.jpg",
+        "videoCount": 1,
+        "bvid": "BV1PhcveYEdU"
+      },
+      {
+        "title": "小桃紅",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/40d638de97934afb7a5c16dbe48f7532da91eb52.jpg",
+        "videoCount": 1,
+        "bvid": "BV1PYcvewEwM"
+      },
+      {
+        "title": "玉连环",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/62f5c7b0356fae2052ab17445c8d14296503fcb6.jpg",
+        "videoCount": 1,
+        "bvid": "BV1PYcvewEcY"
+      },
+      {
+        "title": "平沙落雁",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/17ced24852dbab8a14dda783d997a20a60607d0f.jpg",
+        "videoCount": 1,
+        "bvid": "BV1PYcvewEA6"
+      },
+      {
+        "title": "昭君怨",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/93f211e00e29c5c36a9ee75a8ea34679f1c2a26f.jpg",
+        "videoCount": 1,
+        "bvid": "BV1PhcveYEou"
+      },
+      {
+        "title": "潮乐十首",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/a2673e8bcb70c68dc8b6ca07a5cc9ce3cc06346c.jpg",
+        "videoCount": 1,
+        "bvid": "BV16oceedEMi"
+      },
+      {
+        "title": "潮州音乐：八仙欢宴",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/da511c0facb56c69fbea99f5999e23733655ea86.jpg",
+        "videoCount": 1,
+        "bvid": "BV1UNcieuEA9"
+      },
+      {
+        "title": "潮州音乐：昭君怨",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/992cd96c8c061ca0ad1a9c4444f57f724a8c6ebc.jpg",
+        "videoCount": 1,
+        "bvid": "BV1mNcieuE9r"
+      },
+      {
+        "title": "潮州音乐：迎仙客/千家燈/百家春",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/79058c368d4ec8638c3f04bf5115afb4ee3127bd.jpg",
+        "videoCount": 1,
+        "bvid": "BV1tNciegEYZ"
+      },
+      {
+        "title": "潮州音乐：平沙落雁",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/fa05059d479666be8375916f69983a904e33efe1.jpg",
+        "videoCount": 1,
+        "bvid": "BV1MNciegEgH"
+      },
+      {
+        "title": "潮州音乐：拋网捕鱼",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/f44c67732934228836c5333331aacb0135f3806e.jpg",
+        "videoCount": 1,
+        "bvid": "BV1UNcieuEF3"
+      },
+      {
+        "title": "潮州音乐：柳搖金",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/b2dcbccc1f1da843b52bee54263168d24770d9d4.jpg",
+        "videoCount": 1,
+        "bvid": "BV1mNcieuE1R"
+      },
+      {
+        "title": "潮州音乐：大八板",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/14a0f8626fce51497cb67d4a6d6dcf6edbd9b028.jpg",
+        "videoCount": 1,
+        "bvid": "BV1MNciegEv2"
+      },
+      {
+        "title": "潮州音乐：柳青娘",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/b261d90322909c25d8e1eded154bae6bc5017769.jpg",
+        "videoCount": 1,
+        "bvid": "BV1mNcieuEXz"
+      },
+      {
+        "title": "潮州音乐：粉红莲",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/c29c5e9a5365ff7dce6c594330c58ea98fba2fde.jpg",
+        "videoCount": 1,
+        "bvid": "BV1MNciegEPS"
+      },
+      {
+        "title": "桃李争春",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/9a664aed162540d6b9227951e4d116151a0f56e2.jpg",
+        "videoCount": 1,
+        "bvid": "BV12McieTEBv"
+      },
+      {
+        "title": "双鹦鹉",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/dd9b9d60e92fb9774816987fe2f279f8b658dceb.jpg",
+        "videoCount": 1,
+        "bvid": "BV14McieMEYs"
+      },
+      {
+        "title": "过江龙",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/f9e818763534e9450b092310ced8efb6676c0888.jpg",
+        "videoCount": 1,
+        "bvid": "BV11McieTE1E"
+      },
+      {
+        "title": "玉山坡 皇姑問卜",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/d749b75a81150ae799f224b95510d0b78a190c10.jpg",
+        "videoCount": 1,
+        "bvid": "BV1xucieqEyz"
+      },
+      {
+        "title": "挨书登楼",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/a6e9f547eca893a2c97a2a042a1da3c1a8455abd.jpg",
+        "videoCount": 1,
+        "bvid": "BV11ucieiEWF"
+      },
+      {
+        "title": "游花园",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/956e8c15254d15c6a20cc1326dec4c3013726ec7.jpg",
+        "videoCount": 1,
+        "bvid": "BV11ucieiEWJ"
+      },
+      {
+        "title": "象弄牙",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/1d9d2b66560e381464e4783f5533db8b8dba5130.jpg",
+        "videoCount": 1,
+        "bvid": "BV1KMcieMEUG"
+      },
+      {
+        "title": "絮閣 轻三重",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/ad379d4584e49c8feaae1291989867d858345bdd.jpg",
+        "videoCount": 1,
+        "bvid": "BV12McieTEgm"
+      },
+      {
+        "title": "崖山哀",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/6d3f695f12e7c9d987c2b10f6ad697b77664160d.jpg",
+        "videoCount": 1,
+        "bvid": "BV12McieTErU"
+      },
+      {
+        "title": "迎仙客",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/cd230b56add723f9c0469d878aaf3e21a6468976.jpg",
+        "videoCount": 1,
+        "bvid": "BV12McieTEt9"
+      }
+    ],
+    "潮剧": [
+      {
+        "title": "潮剧唱段100首",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/26329143f3095a74915759e1b1e4fe19f6eb9a07.jpg",
+        "videoCount": 100,
+        "bvid": "BV1At4y1m7Th"
+      }
+    ]
+  }
+}
