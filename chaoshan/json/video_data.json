@@ -3,7 +3,8 @@
     "古装小品",
     "现代小品",
     "潮语电视剧",
-    "潮汕音乐"
+    "潮汕音乐",
+    "潮剧"
   ],
   "VideoClassInfoList": {
     "古装小品": [
@@ -252,6 +253,14 @@
         "picUrl": "https://i2.hdslb.com/bfs/archive/cd230b56add723f9c0469d878aaf3e21a6468976.jpg",
         "videoCount": 1,
         "bvid": "BV12McieTEt9"
+      }
+    ],
+    "潮剧": [
+      {
+        "title": "潮剧唱段100首",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/26329143f3095a74915759e1b1e4fe19f6eb9a07.jpg",
+        "videoCount": 100,
+        "bvid": "BV1At4y1m7Th"
       }
     ]
   }
