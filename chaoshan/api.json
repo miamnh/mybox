@@ -22,7 +22,7 @@
             "ext": "./json/video_data.json"
         },
         {
-            "key": "Bili222",
+            "key": "chaoshanback",
             "name": "潮汕影视(更新备份)",
             "spider": "./spider2.jar",
             "type": 3,
