@@ -22,7 +22,7 @@
             "ext": "./json/video_data.json"
         },
         {
-            "key": "Bili21",
+            "key": "Bili22",
             "name": "潮汕影视(更新备份)",
             "spider": "./spider2.jar",
             "type": 3,
