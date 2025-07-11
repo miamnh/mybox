@@ -22,6 +22,16 @@
             "ext": "./json/video_data.json"
         },
         {
+            "key": "Bili21",
+            "name": "潮汕影视(更新备份)",
+            "spider": "./spider2.jar",
+            "type": 3,
+            "jar": "./jars/qx.jar",
+            "api": "csp_Bili2",
+            "searchable": 0,
+            "ext": "./json/video_data2.json"
+        },
+        {
             "key": "push_agent",
             "name": "▶┃推送┃磁力",
             "type": 3,
