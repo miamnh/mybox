@@ -2,7 +2,8 @@
   "classNameList": [
     "古装小品",
     "现代小品",
-    "潮语电视剧"
+    "潮语电视剧",
+    "潮汕音乐"
   ],
   "VideoClassInfoList": {
     "古装小品": [
@@ -43,6 +44,34 @@
         "picUrl": "https://i0.hdslb.com/bfs/archive/dc4737a58370337870470cfbfcccbfd68bea53cd.jpg@672w_380h_!web-video-rcmd-cover.webp",
         "videoCount": 245,
         "bvid": "BV1tM41127RV"
+      }
+    ],
+    "潮语电视剧": [
+      {
+        "title": "测试",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/dc4737a58370337870470cfbfcccbfd68bea53cd.jpg@672w_380h_!web-video-rcmd-cover.webp",
+        "videoCount": 245,
+        "bvid": "BV1tM41127RV"
+      }
+    ],
+    "潮汕音乐": [
+      {
+        "title": "絮閣 轻三重",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/ad379d4584e49c8feaae1291989867d858345bdd.jpg",
+        "videoCount": 1,
+        "bvid": "BV12McieTEgm"
+      },
+      {
+        "title": "崖山哀",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/6d3f695f12e7c9d987c2b10f6ad697b77664160d.jpg",
+        "videoCount": 1,
+        "bvid": "BV12McieTErU"
+      },
+      {
+        "title": "迎仙客",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/cd230b56add723f9c0469d878aaf3e21a6468976.jpg",
+        "videoCount": 1,
+        "bvid": "BV12McieTEt9"
       }
     ]
   }
